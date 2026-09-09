@@ -91,3 +91,29 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+/* Publications */
+
+.publication {
+    margin-bottom: 40px;
+}
+
+.publication h3 {
+    margin-top: 0;
+    margin-bottom: 8px;
+
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.citation {
+    margin-bottom: 8px;
+
+    color: #555;
+    font-size: 15px;
+}
+
+.links {
+    margin-bottom: 0;
+    font-size: 15px;
+}
